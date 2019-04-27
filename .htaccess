@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# Force HTTPS
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+AuthType Basic
+AuthUserFile "/homez.360/rscdsparkd/chambery/.htpasswd"
+AuthName "Chambery beta website"
+
+<RequireAny>
+  # Require ip
+  Require valid-user
+</RequireAny>
