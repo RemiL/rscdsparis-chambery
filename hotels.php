@@ -15,7 +15,7 @@
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
           <i class="fa fa-bars"></i>
         </button>
-        <a class="navbar-brand" href="index.php"><span class="light">Rendez-vous à</span> Vichy </a>
+        <a class="navbar-brand" href="index.php"><span class="light">Cheers</span> Chambéry!</a>
       </div>
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
@@ -39,97 +39,126 @@
         <div class="col-lg-8 col-lg-offset-2 text-center">
           <h2>Hotels</h2>
           <p>
-            We have negotiated special offers with three of the hotels which are within walking distance of the Palais
-            des Congrès. Details are given below. To obtain these special rates, when contacting the hotel to reserve
-            rooms, please state that you are participating in the <b>Scottish Country Dancing Weekend, Easter 2016</b>.
-            The rates are only available through direct reservation with the hotel, not on websites such as Booking of Hotels.com.
+            <a href="#map" class="btn btn-default btn-lg page-scroll"><i class="fa fa-map-marker fa-fw"></i>
+            <span class="network-name">See the map</span></a>
           </p>
-          <p>If you are travelling by car, few hotels have their own car park but public car parking is available at
-            around 7€/10€ per night or check with the hotel on the ease of street parking.</p>
-          <a href="#map" class="btn btn-default btn-lg page-scroll"><i class="fa fa-map-marker fa-fw"></i> <span
-            class="network-name">See the map</span></a>
+          <p>
+            We have negotiated a special offer with the Hotel Kyriad (3-stars) situated next door to the
+            Centre des Congrés. <strong>To obtain these special rates, please contact the hotel directly by
+            telephone or e-mail (not via their website)</strong> and state that you are participating in the Scottish
+            Country Dancing Weekend, Easter 2020. The “code” for the special offer is RSCDS.
+          </p>
         </div>
       </div>
-    </div>
-  </section>
 
-  <section class="content-section">
-    <div class="intro-section">
       <div class="separator col-md-12">
         <p class="col-md-offset-2 col-md-8 text-center">
-          Rates per person including breakfast. Taxes given for 2015, per night, per person.<br />Special offers are open until
-          31st of January 2016.
+          Room rates per night excluding breakfast. Taxes and breakfast price given for 2019, per night, per person.<br />
+          Special offer is open until 31st of January 2020.
         </p>
         <div class="pricely-chart">
           <section class="col-xs-12">
             <ul class="pricely-pro">
-              <li class="pricely-first-heading panel-success col-md-offset-1 col-md-2 text-center">
+              <li class="pricely-first-heading panel-success col-md-offset-4 col-md-2 text-center">
                 <h3 class="panel-heading"></h3>
                 <ul class="list-group">
                   <li class="list-group-item">Walking time</li>
-                  <li class="list-group-item">2 sharing</li>
                   <li class="list-group-item">single</li>
+                  <li class="list-group-item">double or twins</li>
+                  <li class="list-group-item">3 or 4 sharing</li>
+                  <li class="list-group-item">Breakfast</li>
                   <li class="list-group-item">Local tax</li>
                   <li class="list-group-item">Car park</li>
+                  <li class="list-group-item">Address</li>
+                  <li class="list-group-item">Tel.</li>
+                  <li class="list-group-item">Email</li>
+                </ul>
+              </li>
+
+              <li class="pricely-inner panel-info col-xs-6 col-md-2 text-center">
+                <h3 class="panel-heading">
+                  <span class="pricely-label">Hôtel Kyriad<br />***
+                  </span> <a href="https://www.kyriad.com/en/hotels/kyriad-chambery-centre-curial" class="btn btn-info" target="_blank">Website</a>
+                </h3>
+                <ul class="list-group">
+                  <li class="list-group-item">1 min.</li>
+                  <li class="list-group-item">54€</li>
+                  <li class="list-group-item">59€</li>
+                  <li class="list-group-item">95€</li>
+                  <li class="list-group-item">11.90€</li>
+                  <li class="list-group-item">1.10€</li>
+                  <li class="list-group-item">9.50€/day</li>
+                  <li class="list-group-item">371 rue de la République</li>
+                  <li class="list-group-item">+33 (0)4 79 36 13 64</li>
+                  <li class="list-group-item"><a href="mailto:chambery.centre@kyriad.fr">chambery.centre@kyriad.fr</a></li>
+                </ul>
+              </li>
+
+            </ul>
+          </section>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="col-md-offset-2 col-md-8 text-center">
+          <p>
+            We have also listed a few other hotels close to the Centre des Congrès for reference.
+          </p>
+        </div>
+      </div>
+
+      <div class="separator col-md-12">
+        <div class="pricely-chart">
+          <section class="col-xs-12">
+            <ul class="pricely-pro">
+              <li class="pricely-first-heading panel-success col-md-offset-2 col-md-2 text-center">
+                <h3 class="panel-heading"></h3>
+                <ul class="list-group">
+                  <li class="list-group-item">Walking time</li>
                   <li class="list-group-item">Address</li>
                   <li class="list-group-item">Tel.</li>
                 </ul>
               </li>
 
-              <li class="pricely-inner panel-info col-xs-6 col-md-3 text-center">
+              <li class="pricely-inner panel-info col-xs-6 col-md-2 text-center">
                 <h3 class="panel-heading">
-                  <span class="pricely-label">Aletti<br />****
-                  </span> <a href="http://www.hotel-aletti.fr/en/" class="btn btn-info" target="_blank">Website</a>
-                </h3>
-                <ul class="list-group">
-                  <li class="list-group-item">2 min.</li>
-                  <li class="list-group-item">50€</li>
-                  <li class="list-group-item">90€</li>
-                  <li class="list-group-item">2€</li>
-                  <li class="list-group-item">200m, 7€/day</li>
-                  <li class="list-group-item">3 place Joseph Aletti</li>
-                  <li class="list-group-item">+33 (0)4 70 30 20 20</li>
-                </ul>
-              </li>
-
-              <li class="pricely-inner panel-success col-xs-6 col-md-3 text-center">
-                <h3 class="panel-heading">
-                  <span class="pricely-label">De Grignan<br />***
-                  </span> <a href="http://www.hoteldegrignan.fr/" class="btn btn-success" target="_blank">Website</a>
+                  <span class="pricely-label">Théâtre Hôtel Chambéry<br />**
+                  </span> <a href="http://www.theatrehotelchambery.com/index_en.html" class="btn btn-info" target="_blank">Website</a>
                 </h3>
                 <ul class="list-group">
                   <li class="list-group-item">3 min.</li>
-                  <li class="list-group-item">50€*, 43.50€</li>
-                  <li class="list-group-item">89€*, 78€</li>
-                  <li class="list-group-item">1.25€</li>
-                  <li class="list-group-item">Free (20 spaces)</li>
-                  <li class="list-group-item">7 place Sévigné</li>
-                  <li class="list-group-item">+33 (0)4 70 32 08 11</li>
+                  <li class="list-group-item">9 rue Denfert Rochereau</li>
+                  <li class="list-group-item">+33 (0)4 79 85 76 79</li>
                 </ul>
               </li>
 
-              <li class="pricely-inner panel-info col-xs-6 col-md-3 text-center">
+              <li class="pricely-inner panel-info col-xs-6 col-md-2 text-center">
                 <h3 class="panel-heading">
-                  <span class="pricely-label">Hotel Moderne<br />**
-                  </span> <a href="http://www.hotelmoderne-vichy.com/" class="btn btn-info" target="_blank">Website</a>
+                  <span class="pricely-label">Hôtel des Princes<br />***
+                  </span> <a href="http://inter-desprinces-chambery.h-rez.com/index.htm" class="btn btn-info" target="_blank">Website</a>
                 </h3>
                 <ul class="list-group">
-                  <li class="list-group-item">7 min.</li>
-                  <li class="list-group-item">39.30€</li>
-                  <li class="list-group-item">54.30€ / 46.30€(mini)</li>
-                  <li class="list-group-item">0.70€</li>
-                  <li class="list-group-item">200m</li>
-                  <li class="list-group-item">8 Max Durand Fardel</li>
-                  <li class="list-group-item">+33 (0)4 70 31 20 21</li>
+                  <li class="list-group-item">6 min.</li>
+                  <li class="list-group-item">4 rue de Boigne</li>
+                  <li class="list-group-item">+33 (0)4 79 33 45 36</li>
                 </ul>
               </li>
+
+              <li class="pricely-inner panel-info col-xs-6 col-md-2 text-center">
+                <h3 class="panel-heading">
+                  <span class="pricely-label">Petit Hôtel Confidentiel<br />****
+                  </span> <a href="https://www.petithotelconfidentiel.com/en/" class="btn btn-info" target="_blank">Website</a>
+                </h3>
+                <ul class="list-group">
+                  <li class="list-group-item">10 min.</li>
+                  <li class="list-group-item">10 rue de la Trésorerie</li>
+                  <li class="list-group-item">+33 (0)4 79 26 24 17</li>
+                </ul>
+              </li>
+
             </ul>
           </section>
         </div>
-        <p class="col-md-offset-2 col-md-8 text-center small">
-          * The Hotel de Grignan offers recently renovated and modernised Premium rooms (20m<sup>2</sup>) as well as
-          Standard rooms.
-        </p>
       </div>
     </div>
   </section>
@@ -141,7 +170,7 @@
   <!-- Footer -->
   <footer>
     <div class="container text-center">
-      <p>&copy; 2015 RSCDS Paris Branch</p>
+      <p>&copy; 2019 RSCDS Paris Branch</p>
     </div>
   </footer>
 

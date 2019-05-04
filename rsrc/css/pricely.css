@@ -199,6 +199,6 @@ ol.pricely-indicators li { background: #fff; border-color: #ebebeb; height: 12px
 
 }
 
-.pricely-chart .list-group-item {
+.pricely-chart .list-group-item, .pricely-chart .list-group-item a {
   color: #386890;
 }

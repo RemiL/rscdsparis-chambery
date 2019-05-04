@@ -28,7 +28,7 @@ if (isset ( $_GET ['fr'] )) {
 <?php include_once $panels.'/accommodation.html';?>
 <?php include_once $panels.'/fares.html';?>
 <?php include_once $panels.'/registration.php';?>
-<?php include_once $panels.'/vichy.html';?>
+<?php include_once $panels.'/chambery.html';?>
 
   <!-- Map Section -->
   <div id="map"></div>
@@ -39,7 +39,7 @@ if (isset ( $_GET ['fr'] )) {
   <!-- Footer -->
   <footer>
     <div class="container text-center">
-      <p>&copy; 2015 RSCDS Paris Branch</p>
+      <p>&copy; 2019 RSCDS Paris Branch</p>
     </div>
   </footer>
 
