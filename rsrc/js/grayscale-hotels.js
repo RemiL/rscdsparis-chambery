@@ -36,7 +36,7 @@ google.maps.event.addDomListener(window, 'load', init);
 function init() {
     var mapOptions = {
         zoom: 15,
-        center: new google.maps.LatLng(46.123048,3.420259), // Vichy
+        center: new google.maps.LatLng(45.56392, 5.92677), // Chambéry
         scrollwheel: true,
         draggable: true,
         // This is where you would paste any style found on Snazzy Maps.
@@ -48,42 +48,49 @@ function init() {
     // Create the Google Map using out element and options defined above
     var map = new google.maps.Map(mapElement, mapOptions);
     // Custom Map Marker Icon
-    var pinImage = new google.maps.MarkerImage("http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|386890",
+    var pinImage = new google.maps.MarkerImage("https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|386890",
             new google.maps.Size(21, 34),
             new google.maps.Point(0,0),
             new google.maps.Point(10, 34));
     // Palais des congres (center)
     var palais = new google.maps.Marker({
-        position: new google.maps.LatLng(46.123048,3.420259),
+        position: new google.maps.LatLng(45.56392, 5.92677),
         map: map,
         title: 'Palais des Congrès',
         icon: pinImage
     });
     
     // HOTELS -------------------------
-    var hotelImage = new google.maps.MarkerImage("http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|FF8000",
+    var hotelImage = new google.maps.MarkerImage("https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|FF8000",
             new google.maps.Size(21, 34),
             new google.maps.Point(0,0),
             new google.maps.Point(10, 34));
     
-    var aletti = new google.maps.Marker({
-        position: new google.maps.LatLng(46.123392, 3.418761),
+    var kyriad = new google.maps.Marker({
+        position: new google.maps.LatLng(45.56382, 5.9271),
         map: map,
-        title: 'Aletti ****',
+        title: 'Hôtel Kyriad ***',
         icon: hotelImage
     });
     
-    var grignan = new google.maps.Marker({
-        position: new google.maps.LatLng(46.121295, 3.420500),
+    var theatre = new google.maps.Marker({
+        position: new google.maps.LatLng(45.56473, 5.92445),
         map: map,
-        title: 'Hotel de Grignan ***',
+        title: 'Théâtre Hôtel Chambéry **',
         icon: hotelImage
     });
     
-    var moderne = new google.maps.Marker({
-        position: new google.maps.LatLng(46.126826, 3.420912),
+    var princes = new google.maps.Marker({
+        position: new google.maps.LatLng(45.5662, 5.92196),
         map: map,
-        title: 'Moderne **',
+        title: 'Hôtel des Princes ***',
+        icon: hotelImage
+    });
+    
+    var confidentiel = new google.maps.Marker({
+        position: new google.maps.LatLng(45.56548, 5.91794),
+        map: map,
+        title: 'Petit Hôtel Confidentiel ****',
         icon: hotelImage
     });
 

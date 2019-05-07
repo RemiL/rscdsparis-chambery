@@ -180,7 +180,7 @@
   <script src="rsrc/js/jquery.easing.min.js"></script>
   <!-- Google Maps API Key -->
   <script type="text/javascript"
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDVXvIpUizo4p8fIdP7CS1TPH40HFI8Qo&sensor=false"></script>
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBNX--XE5O9SEim85tATdj6wy49bjv83QY"></script>
   <!-- Custom Theme JavaScript -->
   <script src="rsrc/js/grayscale-hotels.js"></script>
 

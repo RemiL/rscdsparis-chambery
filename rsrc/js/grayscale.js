@@ -40,7 +40,7 @@ function init() {
         // How zoomed in you want the map to start at (always required)
         zoom: 16,
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(46.123048,3.420259), // Vichy
+        center: new google.maps.LatLng(45.56392, 5.92677), // Chambéry
 
         // Disables the default Google Maps UI components
         scrollwheel: false,
@@ -60,7 +60,7 @@ function init() {
 
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     var beachMarker = new google.maps.Marker({
-        position: new google.maps.LatLng(46.123048,3.420259),
+        position: new google.maps.LatLng(45.56392, 5.92677),
         map: map
     });
 }
