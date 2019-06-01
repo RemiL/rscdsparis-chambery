@@ -44,7 +44,7 @@
           </p>
           <p>
             We have negotiated a special offer with the Hotel Kyriad (3-stars) situated next door to the
-            Centre des Congrés. <strong>To obtain these special rates, please contact the hotel directly by
+            Centre des Congrès. <strong>To obtain these special rates, please contact the hotel directly by
             telephone or e-mail (not via their website)</strong> and state that you are participating in the Scottish
             Country Dancing Weekend, Easter 2020. The “code” for the special offer is RSCDS.
           </p>
@@ -146,7 +146,7 @@
 
               <li class="pricely-inner panel-info col-xs-6 col-md-2 text-center">
                 <h3 class="panel-heading">
-                  <span class="pricely-label">Petit Hôtel Confidentiel<br />****
+                  <span class="pricely-label">Petit Hôtel Confidentiel<br />*****
                   </span> <a href="https://www.petithotelconfidentiel.com/en/" class="btn btn-info" target="_blank">Website</a>
                 </h3>
                 <ul class="list-group">
