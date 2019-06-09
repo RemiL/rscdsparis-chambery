@@ -159,6 +159,17 @@ a:focus {
     font-size: 18px;
 }
 
+.intro .intro-body .intro-text span {
+    display: block;
+    font-style: italic;
+    font-size: 90%;
+    text-shadow: 0px 0px 10px black;
+}
+
+.intro .intro-body .intro-text a:hover {
+    color: inherit;
+}
+
 @media(min-width:1050px) {
     .intro {
         height: 100%;
