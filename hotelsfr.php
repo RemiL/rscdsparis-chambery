@@ -45,7 +45,7 @@
           <p>
             Nous avons négocié une offre spéciale avec l’hôtel Kyriad (3 étoiles) situé à côté du Centre des Congrès.
             Pour obtenir le tarif spécial, merci de contacter l’hôtel directement par téléphone ou par e-mail (ne pas
-            utiliser leur site web) et de préciser que vous participez au week-end de danses écossaises de Pâques 2020.
+            utiliser leur site web) et de préciser que vous participez au weekend de danses écossaises de Pâques 2020.
             Le code pour bénéficier du tarif spécial est RSCDS.
           </p>
         </div>
