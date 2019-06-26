@@ -36,6 +36,11 @@ p {
     line-height: 1.5;
 }
 
+.inverted-contrast {
+  color: #386890;
+  background-color: #f8f8f8;
+}
+
 @media(min-width:1050px) {
     p {
         margin: 0 0 35px;
