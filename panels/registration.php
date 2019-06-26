@@ -1,7 +1,7 @@
 <!-- Panel : registration -->
-<section class="content-section text-center">
-  <div class="registration-section">
-    <div class="container">
+<section id="registration" class="content-section text-center">
+  <div class="container">
+    <div class="row">
       <div class="col-lg-8 col-lg-offset-2">
         <h2>Join us</h2>
         <?php if (new DateTime() < new DateTime("2019-10-13 12:00:00")) { ?>

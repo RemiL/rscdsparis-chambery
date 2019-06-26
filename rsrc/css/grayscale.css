@@ -263,7 +263,7 @@ a:focus {
     padding-top: 100px;
 }
 
-.registration-section {
+#registration {
     width: 100%;
     padding: 50px 0;
     color: #fff;
@@ -273,11 +273,6 @@ a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
-
-.program-section {
-  padding: 50px 0;
-  background: url(../img/program.jpg) no-repeat center center scroll;
 }
 
 #map {
@@ -291,7 +286,7 @@ a:focus {
         padding-top: 250px;
     }
 
-    .separator-section, .program-section {
+    .separator-section {
         padding: 100px 0;
     }
 
