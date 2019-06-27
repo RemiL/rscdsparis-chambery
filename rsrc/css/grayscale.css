@@ -41,6 +41,18 @@ p {
   background-color: #f8f8f8;
 }
 
+table {
+    font-size: 18px;
+}
+
+th {
+    font-weight: normal;
+}
+
+th, td {
+    vertical-align: middle !important;
+}
+
 @media(min-width:1050px) {
     p {
         margin: 0 0 35px;
