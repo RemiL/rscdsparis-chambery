@@ -51,52 +51,34 @@
         </div>
       </div>
 
-      <div class="separator col-md-12">
+      <div class="separator container">
         <p class="col-md-offset-2 col-md-8 text-center">
           Les tarifs indiqués sont pour une nuit sans petit-déjeuner.<br />
           Les tarifs du petit-déjeuner et des taxes sont indiqués par jour et par personne.<br />
           L’offre spéciale est valable jusqu’au 31 janvier 2020.
         </p>
-        <div class="pricely-chart">
-          <section class="col-xs-12">
-            <ul class="pricely-pro">
-              <li class="pricely-first-heading panel-success col-md-offset-4 col-md-2 text-center">
-                <h3 class="panel-heading"></h3>
-                <ul class="list-group">
-                  <li class="list-group-item">Distance à pied</li>
-                  <li class="list-group-item">Chambre simple</li>
-                  <li class="list-group-item">Chambre double</li>
-                  <li class="list-group-item">Chambre pour 3 ou 4</li>
-                  <li class="list-group-item">Petit-déjeuner</li>
-                  <li class="list-group-item">Taxe de séjour</li>
-                  <li class="list-group-item">Parking</li>
-                  <li class="list-group-item">Adresse</li>
-                  <li class="list-group-item">Téléphone</li>
-                  <li class="list-group-item">E-mail</li>
-                </ul>
-              </li>
-
-              <li class="pricely-inner panel-info col-xs-6 col-md-2 text-center">
-                <h3 class="panel-heading">
-                  <span class="pricely-label">Hôtel Kyriad<br />***
-                  </span> <a href="https://www.kyriad.com/fr/hotels/kyriad-chambery-centre-curial" class="btn btn-info" target="_blank">Site web</a>
-                </h3>
-                <ul class="list-group">
-                  <li class="list-group-item">1 min</li>
-                  <li class="list-group-item">54€</li>
-                  <li class="list-group-item">59€</li>
-                  <li class="list-group-item">95€</li>
-                  <li class="list-group-item">11.90€</li>
-                  <li class="list-group-item">1.10€</li>
-                  <li class="list-group-item">9.50€/day</li>
-                  <li class="list-group-item">371 rue de la République</li>
-                  <li class="list-group-item">+33 (0)4 79 36 13 64</li>
-                  <li class="list-group-item"><a href="mailto:chambery.centre@kyriad.fr">chambery.centre@kyriad.fr</a></li>
-                </ul>
-              </li>
-
+        <div class="col-xs-offset-1 col-xs-10 col-sm-offset-3 col-sm-6 col-md-offset-4 col-md-4">
+          <div class="panel panel-default text-center inverted-contrast">
+            <div class="panel-heading">
+              <h3 class="panel-title">Hôtel Kyriad<br />***</h3>
+            </div>
+            <div class="panel-body">
+              <a href="https://www.kyriad.com/fr/hotels/kyriad-chambery-centre-curial" class="btn btn-info" target="_blank">Site web</a>
+              <a href="mailto:chambery.centre@kyriad.fr" class="btn btn-info">Email</a>
+            </div>
+            <ul class="list-group">
+              <li class="list-group-item">Distance à pied : 1 min.</li>
+              <li class="list-group-item">Chambre simple : 54€</li>
+              <li class="list-group-item">Chambre double : 59€</li>
+              <li class="list-group-item">Chambre pour 3 ou 4 : 95€</li>
+              <li class="list-group-item">Petit-déjeuner : 11.90€</li>
+              <li class="list-group-item">Taxe de séjour : 1.10€</li>
+              <li class="list-group-item">Parking : 9.50€/jour</li>
             </ul>
-          </section>
+            <div class="panel-footer">
+              371 rue de la République<br/>+33 (0)4 79 36 13 64
+            </div>
+          </div>
         </div>
       </div>
 
@@ -109,57 +91,56 @@
         </div>
       </div>
 
-      <div class="separator col-md-12">
-        <div class="pricely-chart">
-          <section class="col-xs-12">
-            <ul class="pricely-pro">
-              <li class="pricely-first-heading panel-success col-md-offset-2 col-md-2 text-center">
-                <h3 class="panel-heading"></h3>
-                <ul class="list-group">
-                  <li class="list-group-item">Distance à pied</li>
-                  <li class="list-group-item">Adresse</li>
-                  <li class="list-group-item">Téléphone</li>
-                </ul>
-              </li>
-
-              <li class="pricely-inner panel-info col-xs-6 col-md-2 text-center">
-                <h3 class="panel-heading">
-                  <span class="pricely-label">Théâtre Hôtel Chambéry<br />**
-                  </span> <a href="http://www.theatrehotelchambery.com/" class="btn btn-info" target="_blank">Site web</a>
-                </h3>
-                <ul class="list-group">
-                  <li class="list-group-item">3 min</li>
-                  <li class="list-group-item">9 rue Denfert Rochereau</li>
-                  <li class="list-group-item">+33 (0)4 79 85 76 79</li>
-                </ul>
-              </li>
-
-              <li class="pricely-inner panel-info col-xs-6 col-md-2 text-center">
-                <h3 class="panel-heading">
-                  <span class="pricely-label">Hôtel des Princes<br />***
-                  </span> <a href="http://inter-desprinces-chambery.h-rez.com/index_fr.htm" class="btn btn-info" target="_blank">Site web</a>
-                </h3>
-                <ul class="list-group">
-                  <li class="list-group-item">6 min</li>
-                  <li class="list-group-item">4 rue de Boigne</li>
-                  <li class="list-group-item">+33 (0)4 79 33 45 36</li>
-                </ul>
-              </li>
-
-              <li class="pricely-inner panel-info col-xs-6 col-md-2 text-center">
-                <h3 class="panel-heading">
-                  <span class="pricely-label">Petit Hôtel Confidentiel<br />*****
-                  </span> <a href="https://www.petithotelconfidentiel.com/" class="btn btn-info" target="_blank">Site web</a>
-                </h3>
-                <ul class="list-group">
-                  <li class="list-group-item">10 min</li>
-                  <li class="list-group-item">10 rue de la Trésorerie</li>
-                  <li class="list-group-item">+33 (0)4 79 26 24 17</li>
-                </ul>
-              </li>
-
+      <div class="separator container">
+        <div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-4">
+          <div class="panel panel-default text-center inverted-contrast">
+            <div class="panel-heading">
+              <h3 class="panel-title">Théâtre Hôtel<br />Chambéry<br />**</h3>
+            </div>
+            <div class="panel-body">
+              <a href="http://www.theatrehotelchambery.com/" class="btn btn-info" target="_blank">Site web</a>
+            </div>
+            <ul class="list-group">
+              <li class="list-group-item">Distance à pied : 3 min.</li>
             </ul>
-          </section>
+            <div class="panel-footer">
+              9 rue Denfert Rochereau<br/>+33 (0)4 79 85 76 79
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-4">
+          <div class="panel panel-default text-center inverted-contrast">
+            <div class="panel-heading">
+              <h3 class="panel-title">Hôtel<br />des Princes<br />***</h3>
+            </div>
+            <div class="panel-body">
+              <a href="http://inter-desprinces-chambery.h-rez.com/index_fr.htm" class="btn btn-info" target="_blank">Site web</a>
+            </div>
+            <ul class="list-group">
+              <li class="list-group-item">Distance à pied : 6 min.</li>
+            </ul>
+            <div class="panel-footer">
+              4 rue de Boigne<br/>+33 (0)4 79 33 45 36
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-offset-1 col-xs-10 col-sm-offset-0 col-sm-4">
+          <div class="panel panel-default text-center inverted-contrast">
+            <div class="panel-heading">
+              <h3 class="panel-title">Petit Hôtel<br />Confidentiel<br />*****</h3>
+            </div>
+            <div class="panel-body">
+              <a href="https://www.petithotelconfidentiel.com/" class="btn btn-info" target="_blank">Site web</a>
+            </div>
+            <ul class="list-group">
+              <li class="list-group-item">Distance à pied : 10 min.</li>
+            </ul>
+            <div class="panel-footer">
+              10 rue de la Trésorerie<br/>+33 (0)4 79 26 24 17
+            </div>
+          </div>
         </div>
       </div>
     </div>
