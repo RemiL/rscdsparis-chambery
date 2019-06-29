@@ -62,7 +62,7 @@ th, td {
 }
 
 a {
-    color: #BAE7E8;
+    color: #ED8312;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -71,7 +71,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    color: #BAE7E8;
 }
 
 .light {
@@ -319,17 +319,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #BAE7E8;
-    color: #BAE7E8;
+    border: 1px solid #ED8312;
+    color: #ED8312;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #BAE7E8;
+    border: 1px solid #ED8312;
     outline: 0;
     color: #000;
-    background-color: #BAE7E8;
+    background-color: #ED8312;
 }
 
 ul.banner-social-buttons {
@@ -396,5 +396,4 @@ body ul li {
 
 .white-border {
   border: grey thin solid;
-}
 }
